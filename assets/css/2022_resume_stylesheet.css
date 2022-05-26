@@ -1,18 +1,22 @@
-#header{
+header {
     text-align: center;
     color: whitesmoke;
 }
 
-section{
+section {
     color: whitesmoke;
 }
 
-body{
+body {
     background-color: grey;
 }
 
-footer{
+footer {
     color: whitesmoke;
     text-align: center;
     text-shadow: 1in;
+}
+
+#interested {
+    color: whitesmoke;
 };
